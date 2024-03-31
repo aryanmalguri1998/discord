@@ -48,7 +48,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/PrajapatiShefali/DISCORD.git
+git clone https://github.com/AryanMalguri/DISCORD.git
 ```
 
 ### Install packages
